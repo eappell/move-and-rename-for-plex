@@ -1,0 +1,28 @@
+{
+  "name": "move-and-rename-plex",
+  "version": "1.0.0",
+  "description": "Creates a new folder, moves files into that folder that match filter criteria",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eappell/move-and-rename-for-plex.git"
+  },
+  "keywords": [
+    "plex",
+    "files",
+    "folders",
+    "fs"
+  ],
+  "author": "Eddie Appell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eappell/move-and-rename-for-plex/issues"
+  },
+  "homepage": "https://github.com/eappell/move-and-rename-for-plex#readme",
+  "dependencies": {
+    "fs-extra": "^8.0.1"
+  }
+}
